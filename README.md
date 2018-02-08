@@ -27,3 +27,5 @@ Mar2019<br />
 <br />
 So I created a python script to do it.<br />
 See combine_lines.py<br />
+Usage:<br />
+./combine_lines.py file1 file2 > file3<br />
